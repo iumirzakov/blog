@@ -1,46 +1,31 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
-en:
+en: 
   languageCode: en-us
-  contentDir: content/en  # Убедитесь, что весь английский контент находится в этой папке
-  title: Ibrahim Umirzakov
-  params:
-    description: Blog
-  menu:
-    main:
-      - name: Bio
-        url: '/en/'
-        weight: 1
-      - name: Papers
-        url: '/post/'
-        weight: 2
-      - name: Experience
-        url: '/experience/'
-        weight: 3
-      - name: News
-        url: '/project/'
-        weight: 4
-
+  contentDir: content/en
+  
 ru:
-  languageCode: ru
-  contentDir: content/ru  # Контент на русском языке будет в этой папке
-  title: Ибрагим Умирзаков
-  params:
-    description: Блог
+  languageCode: "ru-ru"
+  contentDir: "content/ru"
   menu:
     main:
-      - name: Главная
-        url: '/ru/'
-        weight: 1
-      - name: Бумаги
-        url: '/post/'
-        weight: 2
-      - name: Опыт
-        url: '/experience/'
-        weight: 3
-      - name: Новости
-        url: '/project/'
-        weight: 4
+      - name: Обо мне
+        url: '#about'
+        weight: 10
+      - name: Посты
+        url: '#posts'
+        weight: 20
+      - name: Проекты
+        url: '#projects'
+        weight: 30
+      - name: Выступления
+        url: '#talks'
+        weight: 40
+      - name: Публикации
+        url: '#publication'
+        weight: 50
+      - name: Контакты
+        url: '#contact'
+        weight: 60
+      - name: Биография
+        url: '#biography'
+        weight: 70
+      

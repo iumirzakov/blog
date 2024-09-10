@@ -77,7 +77,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-## About Me
+## Обо мне
 
 Родился 18 мая 2005 года в городе Ташкент, Чиланзарский район 3 массив
 
