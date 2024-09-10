@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 8 по 15 июля
-subtitle: Пост по неделе
+title: Week Post from July 8 to July 15
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,10 +38,10 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## Events of the Week
 
-Провел неделю в Ташкенте с 7 Дневным марафоном 
-обошел пешком все места в городе и одновременно запустил рекламный  проект 
+Spent the week in Tashkent with a 7-day marathon.
+Walked through all the city spots and simultaneously launched an advertising project.
 
-вся информация и фото-видеоотчеты в телеграмм канале  @rstar10 
+All information and photo-video reports are available in the Telegram channel @rstar10.
 

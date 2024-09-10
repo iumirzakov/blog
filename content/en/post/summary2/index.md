@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 1 по 8 сентября
-subtitle: Пост по неделе
+title: Week Post from September 1 to September 8
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,15 +38,14 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## Events of the Week
 
-Неделя с «Москва 2030»
-"Москва 2030" - это не просто выставка, это окно в будущее! 
+The week with "Moscow 2030"
+"Moscow 2030" is not just an exhibition, it’s a window into the future!
 
-Как IT-специалист, я был впечатлен размахом и глубиной представленных инноваций. Технологии, которые ещё вчера казались фантастикой, сегодня уже реальны! 
+As an IT specialist, I was amazed by the scale and depth of the innovations presented. Technologies that seemed like science fiction just yesterday are already becoming reality today!
 
-Виртуальная реальность, искусственный интеллект, беспилотные транспортные средства - все это и ещё многое другое показывает, что мы на пороге новой эры. 
+Virtual reality, artificial intelligence, autonomous vehicles – all of this and more demonstrate that we are on the verge of a new era.
 
-И я с нетерпением жду, какие технологические прорывы ожидают нас в будущем! 
-
+And I eagerly anticipate the technological breakthroughs that lie ahead in the future!
 

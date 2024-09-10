@@ -1,9 +1,9 @@
 ---
-title:  новое метро «Университет Дружбы народов»
-subtitle: новое метро «Университет Дружбы народов»
+title: New Metro Station "University of Friendship of Peoples"
+subtitle: New Metro Station "University of Friendship of Peoples"
 
 # Summary for listings and search engines
-summary: Пост новое метро «Университет Дружбы народов»
+summary: Post about the new metro station "University of Friendship of Peoples"
 
 # Link this post with a project
 projects: []
@@ -30,20 +30,19 @@ categories:
   
 ---
 
-## РУДН: Ближе к знаниям, ближе к миру!
+## RUDN: Closer to Knowledge, Closer to the World!
 
-🎉 РУДН, университет дружбы народов, встречает новый этап развития! 
+🎉 RUDN, the University of Friendship of Peoples, welcomes a new stage of development!
 
-🚇 Открытие станции метро "Университет Дружбы Народов" - это важное событие не только для РУДН, но и для всей Москвы. 
+🚇 The opening of the "University of Friendship of Peoples" metro station is an important event not only for RUDN but for all of Moscow.
 
-🗺️ Теперь добраться до университета стало еще проще и быстрее! Новое метро - это не просто транспортный узел, а символ развития и прогресса РУДН.
+🗺️ Getting to the university has now become even easier and faster! The new metro is not just a transport hub but a symbol of RUDN's development and progress.
 
-🌏 РУДН известен своей международной атмосферой. Здесь учатся студенты из более чем 150 стран мира, обмениваясь опытом и знаниями. 
+🌏 RUDN is known for its international atmosphere. Students from over 150 countries study here, exchanging experiences and knowledge.
 
-📚 Новое метро делает РУДН еще более доступным для всех, кто хочет получить высококачественное образование в международной среде. 
+📚 The new metro makes RUDN even more accessible to everyone who wants to receive high-quality education in an international environment.
 
-🏆 РУДН - это не просто университет, это место, где рождаются идеи, формируется будущее и закладываются основы успешной карьеры. 
+🏆 RUDN is not just a university; it's a place where ideas are born, futures are shaped, and the foundations of successful careers are laid.
 
-🙌 Добро пожаловать в мир РУДН!
-
+🙌 Welcome to the world of RUDN!
 

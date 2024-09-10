@@ -1,9 +1,9 @@
 ---
-title: РУДН Мир возможностей, открытый для всех
-subtitle: РУДН Мир возможностей, открытый для всех
+title: RUDN A World of Opportunities Open to All
+subtitle: RUDN A World of Opportunities Open to All
 
 # Summary for listings and search engines
-summary: Пост про РУДН
+summary: Post about RUDN
 
 # Link this post with a project
 projects: []
@@ -30,31 +30,31 @@ categories:
   
 ---
 
-## РУДН: Мир возможностей, открытый для всех
+## RUDN: A World of Opportunities Open to All
 
-РУДН - это не просто университет, это целый мир! Мир, где царит атмосфера дружбы и толерантности, где студенты из разных стран объединяются в одной цели - получить знания и осуществить свои мечты.
+RUDN is not just a university; it's a whole world! A world where an atmosphere of friendship and tolerance prevails, where students from different countries unite in the common goal of gaining knowledge and fulfilling their dreams.
 
-Здесь вас ждут:
+Here, you can expect:
 
-• Высококлассное образование: РУДН предлагает широкий выбор программ бакалавриата, магистратуры и аспирантуры по различным направлениям - от естественных наук до гуманитарных.
+• **High-quality education**: RUDN offers a wide range of undergraduate, graduate, and postgraduate programs in various fields, from natural sciences to humanities.
 
-• Современная инфраструктура: Университет оборудован современными лабораториями, библиотеками и спортивными комплексами, что создает отличные условия для учебы и развития.
+• **Modern infrastructure**: The university is equipped with state-of-the-art laboratories, libraries, and sports complexes, creating excellent conditions for study and personal development.
 
-• Международная атмосфера: В РУДН учатся студенты из более чем 150 стран мира, что делает университет истинно международным. 
+• **International atmosphere**: Students from more than 150 countries study at RUDN, making it truly international.
 
-• Активная студенческая жизнь: В РУДН кипит жизнь! Здесь проходят разнообразные мероприятия - концерты, спортивные соревнования, фестивали, конференции и многое другое.
+• **Active student life**: RUDN is buzzing with life! Concerts, sports competitions, festivals, conferences, and many more events take place regularly.
 
-• Возможности для карьерного роста: РУДН помогает студентам найти работу по специальности, организуя дни карьеры и предоставляя возможность стажироваться в ведущих компаниях.
+• **Career growth opportunities**: RUDN helps students find jobs in their fields, organizing career days and providing opportunities for internships at leading companies.
 
-РУДН - это место, где вы можете:
+RUDN is a place where you can:
 
-• Получить знания и навыки для успешной карьеры.
+• Gain knowledge and skills for a successful career.
 
-• Обрести друзей и знакомства из разных стран.
+• Make friends and build connections with people from different countries.
 
-• Развивать свои таланты и увлечения.
+• Develop your talents and passions.
 
-• Осуществить свои мечты!
+• Fulfill your dreams!
 
-РУДН - открывает для вас мир возможностей!
+RUDN opens up a world of opportunities for you!
 

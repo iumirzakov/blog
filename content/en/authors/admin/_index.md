@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Умирзоков Иброхим
+title: Umirzakov Ibrokhim
 
 # Name pronunciation (optional)
-name_pronunciation: Умирзоков Иброхим Шомилжон угли
+name_pronunciation: Umirzakov Ibrokhim Shomilzhon ugli
 
 # Full name (for SEO)
-first_name: Иброхим
-last_name: Умирзоков
+first_name: Ibrokhim
+last_name: Umirzakov
 
 # Status emoji
 status:
@@ -29,13 +29,13 @@ profiles:
     url: https://github.com/iumirzakov
 
 interests:
-  - Футбол
-  - Раскрутка соц сетей
-  - Программирование
+  - Football
+  - Social Media Promotion
+  - Programming
 
 education:
-  - area: Бизнес-Информатика
-    institution: РУДН
+  - area: Business Informatics
+    institution: RUDN University
     date_start: 2023-09-01
     date_end: 2027-06-25
 
@@ -52,11 +52,11 @@ skills:
         description: ''
         percent: 20
         icon: chart-bar
-  - name: Увлечения
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Футбол
+      - name: Football
         description: ''
         percent: 100
       - name: PR
@@ -79,12 +79,11 @@ languages:
 
 ## About Me
 
-Родился 18 мая 2005 года в городе Ташкент, Чиланзарский район 3 массив
+I was born on May 18, 2005, in Tashkent, Chilanzar district, 3rd block.
 
-Среднее образование брал в гимназии имени Мирзо Улугбека в столице страны 
+I received my secondary education at Mirzo Ulugbek Gymnasium in the capital of the country.
 
-С раннего детства занимался футболом и к 16 ти годам был отозван в юношескую сборную страны 
+From an early age, I played football, and by the age of 16, I was called to the national youth team.
 
-К своим 18 годам переехал в Москву став одним из студентов РУДН
-А к началу 2024 года начал работать в Альфа банке и тем самым начал свой путь в новом городе 
+At 18, I moved to Moscow to become a student at RUDN University. By the beginning of 2024, I started working at Alfa Bank, thus beginning my journey in a new city.
 
